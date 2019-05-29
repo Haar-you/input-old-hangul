@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+#textarea-1{
+    width: 100%;
+    height: 300px;
+
+    resize: none;
+    
+}
+
+.button-hangul{
+
+}
